@@ -1,2 +1,2 @@
-# UMKC-DS-Capstone
-Capstone project for apply machine learning
+# UMKC_DS_Capstone
+Capstone project for apply machine learning 
