@@ -9,3 +9,6 @@ Based on the "Fast AI app", develop a platform that can detect strokes based on 
 
 ### 2. 911 Assistance
 Inspired by the winning project of the UC Berkeley Hackathon 2024, ["Dispatch AI"](https://www.youtube.com/watch?v=tsTeEkzO9xc), this idea seeks to leverage AI to improve the crime rate in Kansas City. Kansas City has historically struggled with high crime rates; by adapting and enhancing the concept of "Dispatch AI," we aim to create a more effective and responsive 911 assistance system. The platform will utilize machine learning to analyze and predict high-risk areas, optimize emergency response times, and provide real-time crime data analysis.
+
+### 3. Chat Bot about UMKC
+Build a chatbot about UMKC and implement it into UMKC home mainpage. The idea is to assist student get to know more about the school (locations, hours, classes, scholarships, etc). The platform will utilize LLM to answer question from the student. 
