@@ -4,11 +4,20 @@ Capstone project for applying machine learning techniques.
 
 ## Ideas
 
-### 1. Potential Stroke Detection
-Based on the "Fast AI app", develop a platform that can detect strokes based on images of body movements, focusing primarily on facial expressions, heart rates, and fever patterns. This system aims to provide early warnings for potential strokes by analyzing subtle changes in physical symptoms using machine learning algorithms.
+### 1. Potential Stroke Detection:
 
-### 2. 911 Assistance
-Inspired by the winning project of the UC Berkeley Hackathon 2024, ["Dispatch AI"](https://www.youtube.com/watch?v=tsTeEkzO9xc), this idea seeks to leverage AI to improve the crime rate in Kansas City. Kansas City has historically struggled with high crime rates; by adapting and enhancing the concept of "Dispatch AI," we aim to create a more effective and responsive 911 assistance system. The platform will utilize machine learning to analyze and predict high-risk areas, optimize emergency response times, and provide real-time crime data analysis.
+1. Objective: Develop a platform that can detect strokes based on images of body movements, focusing primarily on facial expressions, heart rates, and fever patterns.
+2. Extension: Maybe extension to detect other symptoms like pneumonia, COVID-19, etc
+3. Data source: 
+https://www.kaggle.com/datasets/danish003/face-images-of-acute-stroke-and-non-acute-stroke (stroke)
+https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset (stroke)
+https://physionet.org/content/cves/1.0.0/ (stroke)
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia (pneumonia chest x-ray)
+https://github.com/ml-workgroup/covid-19-image-repository (covid-19)
+
+4. Existence project: Fastai.app (https://play.google.com/store/apps/details?id=tech.fast&hl=en_US&pli=1), an app to detect potential stroke
+5. Application: detecting stroke and maybe an extension to common colds.
+6. Target: people
 
 ### 3. Chat Bot about UMKC
 Build a chatbot about UMKC and implement it into UMKC home mainpage. The idea is to assist student get to know more about the school (locations, hours, classes, scholarships, etc). The platform will utilize LLM to answer question from the student. 
