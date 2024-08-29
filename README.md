@@ -4,20 +4,42 @@ Capstone project for applying machine learning techniques.
 
 ## Ideas
 
-### 1. Potential Stroke Detection:
+# Stroke Detection Platform
 
-1. Objective: Develop a platform that can detect strokes based on images of body movements, focusing primarily on facial expressions, heart rates, and fever patterns.
-2. Extension: Maybe extension to detect other symptoms like pneumonia, COVID-19, etc
-3. Data source: 
-https://www.kaggle.com/datasets/danish003/face-images-of-acute-stroke-and-non-acute-stroke (stroke)
-https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset (stroke)
-https://physionet.org/content/cves/1.0.0/ (stroke)
-https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia (pneumonia chest x-ray)
-https://github.com/ml-workgroup/covid-19-image-repository (covid-19)
+## 1. Objective
+Develop a platform that can detect strokes based on images of body movements, with a primary focus on:
+- **Facial expressions**
+- **Heart rates**
+- **Fever patterns**
 
-4. Existence project: Fastai.app (https://play.google.com/store/apps/details?id=tech.fast&hl=en_US&pli=1), an app to detect potential stroke
-5. Application: detecting stroke and maybe an extension to common colds.
-6. Target: people
+## 2. Extension
+Consider extending the platform to detect other symptoms such as:
+- **Pneumonia**
+- **COVID-19**
+- **Common colds**
+
+## 3. Data Sources
+### Stroke Detection:
+- [Face Images of Acute Stroke and Non-Acute Stroke](https://www.kaggle.com/datasets/danish003/face-images-of-acute-stroke-and-non-acute-stroke) (Kaggle)
+- [Brain Stroke CT Image Dataset](https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset) (Kaggle)
+- [CVES Dataset](https://physionet.org/content/cves/1.0.0/) (PhysioNet)
+
+### Pneumonia Detection:
+- [Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) (Kaggle)
+
+### COVID-19 Detection:
+- [COVID-19 Image Repository](https://github.com/ml-workgroup/covid-19-image-repository) (GitHub)
+
+## 4. Existing Project
+- **Fastai.app**: [Play Store Link](https://play.google.com/store/apps/details?id=tech.fast&hl=en_US&pli=1), an app for detecting potential strokes.
+
+## 5. Application
+- **Primary Focus**: Detecting stroke.
+- **Possible Extension**: Detection of other conditions like pneumonia, COVID-19, and common colds.
+
+## 6. Target Audience
+- **People**: The platform is designed to serve the general population by enabling early detection of strokes and other illnesses through the analysis of body movement images.
+
 
 ### 3. Chat Bot about UMKC
 Build a chatbot about UMKC and implement it into UMKC home mainpage. The idea is to assist student get to know more about the school (locations, hours, classes, scholarships, etc). The platform will utilize LLM to answer question from the student. 
