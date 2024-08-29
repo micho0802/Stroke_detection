@@ -3,7 +3,7 @@
 Capstone project for applying machine learning techniques.
 
 ## Ideas
-
+---
 # Stroke Detection Platform
 
 ## 1. Objective
@@ -41,5 +41,5 @@ Consider extending the platform to detect other symptoms such as:
 - **People**: The platform is designed to serve the general population by enabling early detection of strokes and other illnesses through the analysis of body movement images.
 
 
-### 3. Chat Bot about UMKC
+# Chat Bot about UMKC
 Build a chatbot about UMKC and implement it into UMKC home mainpage. The idea is to assist student get to know more about the school (locations, hours, classes, scholarships, etc). The platform will utilize LLM to answer question from the student. 
