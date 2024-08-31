@@ -2,9 +2,9 @@
 
 Capstone project for applying machine learning techniques.
 
-## Stroke Detection Platform
+# Stroke Detection Platform
 
-# Phase 1 (currently)
+## Phase 1 (currently)
 
 Objective: This step is to fully detect the potential stroke through camera regarding the platform.
 
@@ -12,7 +12,7 @@ Objective: This step is to fully detect the potential stroke through camera rega
 - Train/val/test on various machine learning models and improve the accuracy.
 - Testing.
 
-# Phase 2 
+## Phase 2 
 
 Objective: Real-time integration and front-end
 
