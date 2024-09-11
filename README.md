@@ -11,6 +11,7 @@ Objective: This step is to fully detect the potential stroke through camera rega
 - EDA on datasets.
 - Train/val/test on various machine learning models and improve the accuracy.
 - Testing.
+- LLM chatbot with openai API
 
 ## Phase 2 
 
