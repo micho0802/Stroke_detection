@@ -6,7 +6,7 @@ Capstone project for applying machine learning techniques.
 
 ## Phase 1 (currently)
 
-Objective: This step is to fully detect the potential stroke through camera 
+Objective: This step is to detect the potential stroke through camera fully 
 
 - Train/test/validation on the acute stroke dataset (https://www.kaggle.com/datasets/danish003/face-images-of-acute-stroke-and-non-acute-stroke):
   - Using ResNet50 and train on a GPU (GeForce GTX4770ti Super) -- Completed
