@@ -18,8 +18,7 @@ Objective: This step is to detect the potential stroke through camera fully
 
 ## Phase 2 
 
-Objective: Real-time integration and front-end
+Objective: Triangle model
 
-- Access real-time and response
-- API
+- Connect frontend, backend and database
 
