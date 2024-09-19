@@ -20,5 +20,5 @@ Objective: This step is to detect the potential stroke through camera fully
 
 Objective: Triangle model
 
-- Connect frontend, backend and database
+- Connect frontend, backend, and database --Completed
 
