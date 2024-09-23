@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Image</title>
+</head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 50px;
+    }
+    .form-control, .btn {
+        padding: 10px;
+        margin: 10px 0;
+        font-size: 16px;
+    }
+</style>
+<body>
+    <h1>Upload an Image</h1>
+    <form action="/sendMsg" method="post" enctype="multipart/form-data">
+        <!-- Input field to upload an image -->
+        <input class="form-control" type="file" name="imagefile" accept="image/*" required>
+        <!-- Input field for an optional message -->
+        <input class="form-control" type="text" name="msg" placeholder="Optional message">
+        <!-- Submit button -->
+        <input class="btn btn-primary mt-3" type="submit" value="Upload Image">
+    </form>
+</body>
+</html>
