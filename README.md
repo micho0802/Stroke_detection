@@ -22,3 +22,8 @@ Objective: Triangle model
 
 - Connect frontend, backend, and database --Completed
 
+## Phase 3
+Objective: Implement Mutimodal
+
+- Implemented Multimodal Gemini --Completed
+
