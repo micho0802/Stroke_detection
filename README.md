@@ -1,8 +1,4 @@
-# UMKC_DS_Capstone
-
-Capstone project for applying machine learning techniques.
-
-# Stroke Detection Platform
+# Stroke Detection
 
 ## Phase 1 (currently)
 
