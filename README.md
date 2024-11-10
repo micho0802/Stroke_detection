@@ -7,3 +7,5 @@
 6. EfficientNet (0.01): 99.13% # of iterations until convergence: 29
 7. ConvNeXt (0.01): 91.15% # of iterations until convergence: 20
 8. ConvNeXt (0.001): 99.48% # of iterations until convergence: 43
+
+
