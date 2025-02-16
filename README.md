@@ -1,5 +1,9 @@
 # Multimodal for Stroke Detection
 
+This is a platform use to detect potential stroke using machine learning
+
+
+
 ## Stroke predict with face and medical history
 ![Screenshot from 2025-02-12 18-10-32](https://github.com/user-attachments/assets/589e83f9-5eea-45b3-9a90-892e345c8aec)
 
