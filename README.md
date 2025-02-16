@@ -2,7 +2,7 @@
 
 - This is a platform used to detect potential strokes using machine learning
 
-# Dataset
+## Dataset
 
 # Architecture
 
