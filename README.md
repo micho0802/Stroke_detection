@@ -1,7 +1,6 @@
 # Multimodal for Stroke Detection
 
-- This is a platform used to detect potential strokes using machine learning.
-- The goal is to apply machine learning to healthcare, specifically early stroke detection.
+This repository provide the code for ours extension on applied machine learning in healthcare. Particularly Multimodal for Stroke Detection.
 
 ## Dataset
 
