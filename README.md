@@ -1,6 +1,6 @@
 # Multimodal for Stroke Detection
 
-This repository provide the code for ours extension on applied machine learning in healthcare. Particularly Multimodal for Stroke Detection.
+This repository provide the code for ours extension on applied machine learning in healthcare, particularly Multimodal for Stroke Detection. We provide an example of how our platform works with medical history and facial analysis.
 
 ## Dataset
 
