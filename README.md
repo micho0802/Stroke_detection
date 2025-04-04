@@ -6,6 +6,10 @@ This repository provides the code for our extension on applied machine learning 
 
 The training dataset consists of 2 different source data. 
 
+- Facial stroke data: https://www.kaggle.com/datasets/danish003/face-images-of-acute-stroke-and-non-acute-stroke
+- Medical history data: 
+
+
 ## Architecture
 
 ## Result
