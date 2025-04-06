@@ -11,6 +11,8 @@ The training dataset consists of 2 different source data.
 
 
 ## Architecture
+Like most tech product, the platform involve in frontend, backend and database architecture.
+
 
 ## Result
 
