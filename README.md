@@ -4,19 +4,22 @@ This repository provides the code for our extension on applied machine learning 
 
 ## Dataset
 
-The training dataset consists of 2 different source data. 
+The training dataset consists of 2 different source datasets. 
 
 - Facial stroke data: https://www.kaggle.com/datasets/danish003/face-images-of-acute-stroke-and-non-acute-stroke
 - Medical history data: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 
 ## Architecture
-Like most tech product, the platform involve in frontend, backend and database architecture.
+Like most capstone projects, the platform involves frontend, backend, and database architecture.
+
+### Frontend:
+-- The frontend was built around the [Gradio](https://www.gradio.app/)
 
 
 ## Result
 
-## Stroke predict with face and medical history
+## Stroke prediction with face and medical history
 ![Screenshot from 2025-02-12 18-10-32](https://github.com/user-attachments/assets/589e83f9-5eea-45b3-9a90-892e345c8aec)
 
 
