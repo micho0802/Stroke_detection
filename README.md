@@ -14,8 +14,12 @@ The training dataset consists of 2 different source datasets.
 Like most capstone projects, the platform involves frontend, backend, and database architecture.
 
 ### Frontend:
-- The frontend was built around the [Gradio](https://www.gradio.app/). A fast API for implement pretrain multimodal to production.
+- The frontend was built around [Gradio](https://www.gradio.app/), a fast API for implementing pre-trained multimodal models in production.
 
+### Backend:
+- The backend 
+### Database:
+- The database used is [MongoDB](https://www.mongodb.com/), a sufficent database for unstructure data.
 
 ## Result
 
