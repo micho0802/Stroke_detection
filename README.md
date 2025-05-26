@@ -14,7 +14,7 @@ The training dataset consists of 2 different source datasets.
 Like most capstone projects, the platform involves frontend, backend, and database architecture.
 
 ### Frontend:
--The frontend was built around the [Gradio](https://www.gradio.app/)
+- The frontend was built around the [Gradio](https://www.gradio.app/)
 
 
 ## Result
