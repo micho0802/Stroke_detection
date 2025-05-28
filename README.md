@@ -21,6 +21,10 @@ Like most capstone projects, the platform involves frontend, backend, and databa
 ### Database:
 - The database used is [MongoDB](https://www.mongodb.com/), a sufficent database for unstructure data.
 
+### Multimodal architecture
+The machine learning implementation including 2 approach:
+- Medical history prediction
+- Facial detection
 
 ## Result
 
