@@ -17,9 +17,10 @@ Like most capstone projects, the platform involves frontend, backend, and databa
 - The frontend was built around [Gradio](https://www.gradio.app/), a fast API for implementing pre-trained multimodal models in production.
 
 ### Backend:
-- The backend 
+- The backend technology was construct arround JavaScript. 
 ### Database:
 - The database used is [MongoDB](https://www.mongodb.com/), a sufficent database for unstructure data.
+
 
 ## Result
 
