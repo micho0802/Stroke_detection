@@ -23,10 +23,15 @@ Like most capstone projects, the platform involves frontend, backend, and databa
 
 ### Multimodal architecture
 The machine learning implementation including 2 approach:
-- Medical history prediction
-- Facial detection
+- Medical history prediction:
+  - Where various ML models will be testing on medical history dataset.
+- Facial detection:
+  - Where various CNN architectures will be implement on facial expression.
+
 
 ## Result
+
+
 
 ## Stroke prediction with face and medical history
 ![Screenshot from 2025-02-12 18-10-32](https://github.com/user-attachments/assets/589e83f9-5eea-45b3-9a90-892e345c8aec)
