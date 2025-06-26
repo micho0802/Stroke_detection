@@ -30,7 +30,7 @@ The machine learning implementation including 2 approach:
 
 
 ## Result
-
+![Result](../Result.PNG)
 
 
 ## Stroke prediction with face and medical history
